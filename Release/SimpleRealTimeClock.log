@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(96,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(96,22): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(101,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(101,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(102,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(102,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(115,54): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(116,55): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+C:\Users\crist\source\repos\SimpleRealTimeClock\main.cpp(178,25): warning C4244: аргумент: преобразование "float" в "UINT", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SimpleRealTimeClock.vcxproj -> C:\Users\crist\source\repos\SimpleRealTimeClock\Release\SimpleRealTimeClock.exe
